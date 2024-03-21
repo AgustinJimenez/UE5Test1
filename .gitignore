@@ -12,3 +12,6 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+Content/MetaHumans/Ettore/Face/Ettore_FaceMesh.uasset
+
+Content/MetaHumans/Common/Face/Face_Archetype.uasset

@@ -14,5 +14,3 @@ Saved
 *.xcworkspace
 Content/MetaHumans/Ettore/Face/Ettore_FaceMesh.uasset
 Content/MetaHumans/Common/Face/Face_Archetype.uasset
-Content/MetaHumans/Ettore/*
-!Content/MetaHumans/Ettore/Male/Medium/NormalWeight/Body/m_med_nrw_body.uasset
